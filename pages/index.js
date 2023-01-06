@@ -8,6 +8,7 @@ export default function Home() {
       <Head>
         <title>Next.js Starter!</title>
         <link rel="icon" href="/favicon.ico" />
+        <script src="https://telegram.org/js/telegram-web-app.js"></script>
       </Head>
 
       <main>
